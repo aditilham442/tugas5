@@ -1,10 +1,12 @@
 LANGKAH LANGKAH MEMBUAT PROGRAMAN SEDERHANA BILANGAN TERBESAR#
 
     Buka IDLE-Pyhton
+    ![python ](https://user-images.githubusercontent.com/56506849/67615410-587b4580-f7f6-11e9-9678-348eceb70ecf.jpg)
 
 langkah 1
 
     Klik New File
+    
 
 langkah 2
 
