@@ -1,4 +1,4 @@
-LANGKAH LANGKAH MEMBUAT PROGRAMAN SEDERHANA BILANGAN TERBESAR#
+LANGKAH LANGKAH MEMBUAT PROGRAMAN SEDERHANA BILANGAN TERBESAR
 
     Buka IDLE-Pyhton
     ![python ](https://user-images.githubusercontent.com/56506849/67615410-587b4580-f7f6-11e9-9678-348eceb70ecf.jpg)
@@ -32,7 +32,6 @@ langkah 3
 langkah 4
 
 DAN SEPERTI INILAH HASILNYA
+![python6](https://user-images.githubusercontent.com/56506849/67615480-477f0400-f7f7-11e9-855a-0b652940f82a.png)
 
-langkah 5
-
--rubbi permana-
+MOCH ILHAM ADITYA
