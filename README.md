@@ -6,6 +6,7 @@ LANGKAH LANGKAH MEMBUAT PROGRAMAN SEDERHANA BILANGAN TERBESAR#
 langkah 1
 
     Klik New File
+    ![python2](https://user-images.githubusercontent.com/56506849/67615428-b314a180-f7f6-11e9-8b49-9d82f9157b15.jpg)
     
 
 langkah 2
