@@ -26,9 +26,8 @@ langkah 3
     ![python4](https://user-images.githubusercontent.com/56506849/67615446-f40cb600-f7f6-11e9-8a4d-d0a4fab737e0.jpg)
 
 
-a
-
     Klik Run Module, Agar Semua Yang Dibuat Tadi Bisa Langsung Masuk Terprogram
+    ![python5](https://user-images.githubusercontent.com/56506849/67615463-23232780-f7f7-11e9-9cf9-44a297d8ee53.jpg)
 
 langkah 4
 
