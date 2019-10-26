@@ -23,6 +23,8 @@ c = int(input("Masukan bilangan C:"))
 langkah 3
 
     Buatlah Rumus Agar Bilangan Yang Tadi Di Input Bisa Terdetekasi Secara Program, Rumus Seperti Berikut
+    ![python4](https://user-images.githubusercontent.com/56506849/67615446-f40cb600-f7f6-11e9-8a4d-d0a4fab737e0.jpg)
+
 
 a
 
